@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+.container__game {
+  position: relative;
+  width: 1300px;
+  height: 850px;
+  border: 50px solid black;
+  margin: auto;
+}
+.root {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 25px solid yellow;
+  position: absolute;
+  margin: auto;
+}
